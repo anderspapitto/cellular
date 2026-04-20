@@ -1,0 +1,14 @@
+tab_spaces = 2
+wrap_comments = true
+fn_single_line = true
+where_single_line = true
+imports_granularity = "module"
+overflow_delimited_expr = true
+struct_field_align_threshold = 16
+group_imports = "StdExternalCrate"
+use_try_shorthand = true
+newline_style = "Unix"
+use_small_heuristics = "Max"
+max_width = 80
+edition = "2024"
+style_edition = "2027"
